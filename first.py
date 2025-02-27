@@ -1,3 +1,8 @@
 print('good bye')
 print('hello')
 print('bye')
+print('hi')
+print('how r u')
+print('bad')
+print('confusing')
+print('success')
