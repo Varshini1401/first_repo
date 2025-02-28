@@ -1,1 +1,1 @@
-Created a sample first repo
+Created a sample first repository
